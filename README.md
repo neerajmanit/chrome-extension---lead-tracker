@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 This is a lead tracker chrom extension.
-=======
-chrome extension to save any link or any tab url.
->>>>>>> a379d012a99b90cb24d246c8fcbc5e642abca465
+
+<p align="center">
+  <img src="./lead_tracker_sc.png" width="350" title="hover text">
+  <img src="./lead_tracker_sc.png" width="350" alt="accessibility text">
+</p>
